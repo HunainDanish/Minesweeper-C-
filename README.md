@@ -5,7 +5,6 @@ Classic Gameplay: Enjoy the timeless Minesweeper gameplay where the goal is to c
 Customizable Grid Sizes: Select from beginner, intermediate, or expert levels, or customize your grid size for a personalized challenge.
 Interactive Interface: Navigate through an intuitive user interface designed for seamless interaction and gameplay.
 Game Statistics: Track your performance with win count, loss count, and best completion times for each difficulty level.
-Flagging System: Use flags to mark potential mine locations and strategically manage the minefield.
 Randomized Mines: Encounter unique game layouts with randomized mine placement for endless replayability.
 Cross-Platform Compatibility: Play Minesweeper across platforms with minimal dependencies, thanks to C++.
 How to Play:
